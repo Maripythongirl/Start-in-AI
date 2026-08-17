@@ -21,10 +21,8 @@ $papai — envia uma homenagem acompanhada de um vídeo.
 $salvar — utiliza Inteligência Artificial para analisar uma imagem e criar uma carta de personagem.
 
 🖼️ CAPTURAS DE TELA 🖼️
-<p align="center">
-  <img src="imagens/comandos.png" width="400">
-</p>
-
+![Comandos do bot](imagens/comandos.png)
+![Comandos do bot](imagens/comandos1.png)
 
 
 🧠 CLASSIFICAÇÃO COM IA 🧠
