@@ -22,8 +22,7 @@ $salvar — utiliza Inteligência Artificial para analisar uma imagem e criar um
 
 🖼️ CAPTURAS DE TELA 🖼️
 <picture>
-<img src="imagens/comandos.png" alt="texto" width="200">
-</picture>
+<img src="imagens/comandos.png" alt="texto" width="200"></picture>
 
 
 🧠 CLASSIFICAÇÃO COM IA 🧠
